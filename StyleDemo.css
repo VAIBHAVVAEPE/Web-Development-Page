@@ -1,0 +1,23 @@
+﻿#para2{
+    background-color:aliceblue;
+    height:200px;
+    color:read;
+}
+
+#para1 {
+    background-color: #b6ff00;
+    height: 200px;
+    color: read;
+}
+h1 {
+    color: aqua;
+        background-color:red;
+}
+p{
+    text-align:center;
+}
+
+
+.commonFont{
+    font-family:Algerian;
+}
